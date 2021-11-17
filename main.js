@@ -1,4 +1,4 @@
-const APIKey = "199e1ee321411d1260c8cadb459a7ffd";
+const APIKey = "<YOUR_KEY_HERE>";
 let url = '';
 const inputField = document.querySelector("input");
 const searchButton = document.querySelector(".lupe");
